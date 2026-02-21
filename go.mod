@@ -1,4 +1,4 @@
-module git.apihub24.de/admin/generic-di
+module github.com/codeus-node/generic-di
 
 go 1.22.0
 

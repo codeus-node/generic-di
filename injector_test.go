@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	di "git.apihub24.de/admin/generic-di"
+	di "github.com/codeus-node/generic-di"
 	"github.com/google/uuid"
 )
 
